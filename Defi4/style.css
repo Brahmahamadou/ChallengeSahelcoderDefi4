@@ -1,0 +1,52 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url(pngtree-niger-map-flag-shaped-design-africa-vector-png-image_12593275.png);
+}
+img{
+    height: 210px;
+    width: 300px;
+    border-radius: 15px;
+}
+.couleur{
+    width: 310px;
+    height: 200px;
+    background-color: #B8B3E9;
+    margin-top: 10rem;
+    margin-left: -12rem;
+    border-radius: 15px;
+}
+.couleur h3{
+    margin-left: 1rem;
+    color: #443c8f;
+}
+.couleur a{
+    margin-left: 12rem;
+}
+.couleur p{
+    margin-left: 1rem;
+}
+.cont1 {
+    display: flex;
+}
+.cont2{
+    display: flex;
+    margin-left: 5rem;
+   
+}
+.conteneur1{
+    display: flex;
+}
+.cont3{
+    display: flex;
+}
+.cont4{
+    display: flex;
+    margin-left: 5rem;
+}
+.conteneur2{
+    display: flex;
+    margin-top: 5rem;
+}
